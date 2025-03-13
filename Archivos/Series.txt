@@ -1,0 +1,3 @@
+201	Wandavision	5	3
+202	RickAndMorty	0	0
+203	TheGoodDoctor	5	4
